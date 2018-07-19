@@ -1,4 +1,4 @@
-FROM homeassistant/armhf-base
+FROM homeassistant/aarch64-base
 
 ENV LANG C.UTF-8
 
