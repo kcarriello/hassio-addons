@@ -4,7 +4,7 @@
     "slug": "smartthings",
     "description": "SmartThings Mqtt Bridge (https://github.com/stjohnjohnson/smartthings-mqtt-bridge)",
     "url": "https://github.com/kcarriello/hassio-addons/tree/master/smartthings",
-    "image": "afelds/{arch}-hassio-smartthings-mqtt-bridge",
+    "image": "kcarriello/{arch}-hassio-smartthings-mqtt-bridge",
     "startup": "before",
     "boot": "auto",
     "host_network": true,
