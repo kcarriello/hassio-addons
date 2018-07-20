@@ -1,4 +1,4 @@
-FROM homeassistant/aarch64-homeassistant-base
+FROM %%BASE_IMAGE%%
 
 ENV LANG C.UTF-8
 
